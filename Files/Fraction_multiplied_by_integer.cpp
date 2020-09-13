@@ -1,10 +1,3 @@
-/*
- * @Author: Zona.
- * @Date: 2020-09-13 13:11:08
- * @LastEditors: Zona.
- * @LastEditTime: 2020-09-13 13:17:53
- * @FilePath: \Luogu\Class_Practice\Fraction_multiplied_by_integer.cpp
- */
 #include<bits/stdc++.h>
 using namespace std;
 int Gcd(int x,int y){//求最大公约数（辗转相除法）
